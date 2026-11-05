@@ -1,2 +1,0 @@
-# arialief
-Static site
